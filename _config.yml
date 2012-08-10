@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : "Blog o' Things"
+title : Blog o' Things
 tagline: I <3 Javascript
 author :
   name : Shawn Dellysse
